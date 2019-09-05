@@ -17,7 +17,6 @@
 .. |ReadTheDocs| image:: https://readthedocs.org/projects/mne-csd/badge/?version=latest
 .. _ReadTheDocs: https://mne-csd.readthedocs.io/en/latest/?badge=latest
 
-
 mne-csd - A template for mne-python compatible extensions
 ======================================================================
 
